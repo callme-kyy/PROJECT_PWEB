@@ -1,5 +1,8 @@
 <h3 align="center">
-        <img src="https://i.ibb.co/7bJzj1y/111923744-p0.png">
+<img src="https://i.ibb.co/7bJzj1y/111923744-p0.png">
+</h3>
+
+<h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Muhammad Rifky Anugrah Ramadhan</a></b>
         </samp>
