@@ -1,3 +1,6 @@
+![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
+
+
 <h3 align="center">
 <img src="https://i.ibb.co/7bJzj1y/111923744-p0.png">
 </h3>
@@ -27,10 +30,17 @@
 </p>
 
 <br/>
+</p>
 <br/>
 <br/>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/callme-kyy/count.svg" />
 
-
+<br>
+<br>
+</br>
+</br>
 
 FOLLOW ME
 
@@ -45,22 +55,6 @@ FOLLOW ME
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![Php][php.net]][php-url]
 
-
-<h2>live Song
-<table width="100%"> 
-  <tr>
-  <td width="10%">
-
-  </td>
-  <td width="80%">
-
-&nbsp; <br> [![Spotify](https://readme-spotify-dynamic.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/intl-id/track/7x3BRHLIcbJ5ZJomHvxKTt)
-
-  </td>
-  <td width="10%">
-
-  </td>
-</table>
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/muhammad-rifky-anugrah-ramadhan-a7922122b/
