@@ -1,6 +1,3 @@
-![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
-
-
 <h3 align="center">
 <img src="https://i.ibb.co/7bJzj1y/111923744-p0.png">
 </h3>
@@ -24,7 +21,8 @@
 
 
  # About me
- Ini adalah Project pertama saya
+ 
+ Ini adalah Project  Praktikum Pemrograman Web pertama saya
 
 
 </p>
@@ -44,7 +42,7 @@
 
 FOLLOW ME
 
-[![LinkedIn][linkedin-shield]][Instagram-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 [![Instagram][Instagram-shield]][Instagram-url]
 
 
@@ -54,6 +52,7 @@ FOLLOW ME
 
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![Php][php.net]][php-url]
+
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
