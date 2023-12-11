@@ -125,7 +125,7 @@ function updateData() {
     // Cek NPM mahasiswa
     $cek_npm = mysqli_query($db, "SELECT * FROM mahasiswa WHERE npm='". $npm ."'");
 
-    if ($cek_npm->num_rows === 1) {
+    if ($cek_npm->num_rows === 0) {
         $query = mysqli_query($db, "UPDATE mahasiswa SET nama='". $nama ."',kelas='". $kelas ."',jurusan='". $jurusan ."',nohp='". $nohp ."' WHERE npm='". $npm ."'");
 
         if ($query) {

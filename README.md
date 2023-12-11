@@ -34,25 +34,42 @@
 
 FOLLOW ME
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][Instagram-url]
+[![Instagram][Instagram-shield]][Instagram-url]
 
 
 
 
-### PROGRAMMING STACK
+### LANGUAGE
 
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-
 [![Php][php.net]][php-url]
 
-### Organization
-<h3><a href="https://ccug.gunadarma.ac.id/">CCUG</h3>
 
+<h2>live Song
+<table width="100%"> 
+  <tr>
+  <td width="10%">
+
+  </td>
+  <td width="80%">
+
+&nbsp; <br> [![Spotify](https://readme-spotify-dynamic.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/intl-id/track/7x3BRHLIcbJ5ZJomHvxKTt)
+
+  </td>
+  <td width="10%">
+
+  </td>
+</table>
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[php.net]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/muhammad-rifky-anugrah-ramadhan-a7922122b/
 
-[php-url]: https://www.php.net
+[Instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[Instagram-url]: https://instagram.com/0muhammadr__?igshid=OGQ5ZDc2ODk2ZA==
+
+
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
+[php.net]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+[php-url]: https://www.php.net
